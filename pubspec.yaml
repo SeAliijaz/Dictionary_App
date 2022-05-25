@@ -33,6 +33,7 @@ dependencies:
   fluttertoast: ^8.0.9
   google_fonts: ^3.0.1
   http: ^0.13.4
+  just_audio: ^0.9.21
 
 dev_dependencies:
   flutter_lints: ^2.0.0
